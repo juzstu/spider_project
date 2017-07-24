@@ -11,6 +11,10 @@ import codecs
 import csv
 import sys  
 
+'''
+Sample spider for crawling douban Top250 and save as csv file.
+'''
+
 reload(sys)  
 sys.setdefaultencoding('utf-8') 
 
