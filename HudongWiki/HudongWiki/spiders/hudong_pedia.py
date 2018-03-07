@@ -6,7 +6,7 @@ import urllib
 cd ~\HudongWiki\HudongWiki
 scrapy crawl Hudong
 
-file_object: 你要爬取提条的文本
+file_object: 你要爬取词条的文本
 内容格式:
 朱自清
 橘子
